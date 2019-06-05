@@ -1,0 +1,5 @@
+main.c:64:6:num2bin_ws2812	8	static
+main.c:83:6:set_color_ws2812	24	static
+main.c:195:6:SystemClock_Config	96	static
+main.c:95:5:main	1032	static
+main.c:356:6:Error_Handler	0	static
